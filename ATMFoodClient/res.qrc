@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/addFood.png</file>
+        <file>res/addUser.png</file>
+        <file>res/basket.png</file>
+        <file>res/exit.png</file>
+        <file>res/menu.png</file>
+        <file>res/logo.png</file>
+        <file>res/def.png</file>
+        <file>res/selected.png</file>
+        <file>res/table.jpg</file>
+    </qresource>
+</RCC>
